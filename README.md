@@ -1,0 +1,1 @@
+# socionics-transcript-analyzer
